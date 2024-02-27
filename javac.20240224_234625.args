@@ -1,0 +1,20 @@
+-d
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\build\\classes"
+-classpath
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\build\\classes"
+-sourcepath
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\build\\empty"
+-target
+21
+-encoding
+UTF-8
+-g
+--enable-preview
+-processorpath
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\build\\empty"
+-s
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\build\\generated-sources\\ap-source-output"
+-source
+21
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\src\\Main.java"
+"C:\\Users\\felix\\Documents\\NetBeansProjects\\Practica 1\\src\\PerceptronSimple.java"
